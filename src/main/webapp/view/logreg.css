@@ -1,0 +1,149 @@
+.auth-title {
+  color: #221f20;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 600;
+}
+.auth-title,
+.auth-description {
+  width: 450px;
+  align-items: center;
+  text-align: center;
+}
+.auth-description {
+  width: 450px;
+  color: #6c6d70;
+  font-family: Montserrat;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+}
+.form-signin {
+  width: 390px;
+  height: 48px;
+  margin: 24px auto !important;
+}
+.save {
+  display: flex;
+  align-items: center;
+  width: 390px;
+  margin: 0 auto;
+  justify-content: space-between !important;
+}
+.save-forgot {
+  width: 180px;
+  align-items: center;
+}
+.btn-log {
+  width: 390px;
+  height: 50px;
+  background-color: #221f20;
+  border-radius: 16px 0;
+  padding: 12px 24px;
+  border: none;
+  margin: 18px auto;
+  display: flex;
+  justify-content: center;
+}
+.register-list {
+  width: 1350px;
+  margin: 0 auto;
+}
+.logreg_btn {
+  color: #f7f8f9;
+  font-family: Montserrat;
+  font-weight: 600;
+}
+.register-item {
+  font-size: 18px;
+  color: #221f20;
+  font-family: Montserrat;
+  font-weight: 700px;
+}
+.container_register{
+  width: 1350px !important;
+  margin: 0 auto;
+}
+.form-control {
+  width: 315px !important;
+}
+.register-group {
+  padding: 0 15px;
+}
+
+.text-item {
+  color: #6c6d70;
+  display: inline-block;
+  font-family: Montserrat;
+  line-height: 24px;
+  text-align: left;
+}
+.form-Up_signUp {
+  display: flex;
+  width: 790px;
+}
+.row_signUp {
+  width: 100%;
+}
+.information_signUp {
+  font-size: 24px;
+  color: color #221f20;
+  font-weight: 500;
+  line-height: 19.2px;
+  margin: 20px 0px 8px;
+  text-align: left;
+}
+.control-input_signUp {
+  margin: 12px 0;
+}
+.form-control_signUp {
+  display: flex;
+  flex-wrap: wrap;
+}
+.control-item_signUp {
+  margin: 4px 16px;
+  font-size: 18px;
+  color: #6c6d70;
+}
+.input-form_signUp {
+  width: 315px;
+  height: 48px;
+  padding: 0 12px;
+  margin: 0 15px;
+  outline: none;
+}
+.input-forms_signUp {
+  width: 660px;
+  height: 48px;
+  padding: 0 12px;
+  margin: 0 15px;
+  outline: none;
+}
+.auth-log-btn_signUp {
+  align-items: center;
+  background-color: #272425;
+  border-color: #221f20;
+  border-radius: 16px 0px;
+  border-style: solid;
+  border-width: 1px;
+  color: #f2f3f4;
+  display: flex;
+  font-family: Montserrat;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 24px;
+  padding: 0 24px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 660px;
+  height: 48px;
+  margin: 0 auto;
+  margin-top: 20px;
+  cursor: pointer;
+}
+.auth-log-btn_signUp:hover {
+  background-color: #a19e9f;
+}
+.auth-link {
+  margin-left: 16px;
+}
